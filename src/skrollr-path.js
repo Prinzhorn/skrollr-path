@@ -34,8 +34,6 @@
 
 			var angle = Math.atan(dy / dx) / (Math.PI / 2);
 
-			console.log((angle + 1) / 2);
-
 			return (angle + 1) / 2;
 		};
 
